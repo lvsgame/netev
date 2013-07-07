@@ -1,0 +1,13 @@
+netev=~/netev CD=. filter="*" {
+ Makefile
+ client.c
+ connect_test.c
+ listen_test.c
+ netbuf.c
+ netev
+ netev.c
+ server.c
+ netbuf.h
+ netev.h
+ zlib_test.c
+}
